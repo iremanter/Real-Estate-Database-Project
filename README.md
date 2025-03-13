@@ -2,6 +2,10 @@
 
 **DATABASE DESIGN FOR A REAL ESTATE AGENCY:**
 
+<img width="596" alt="Screenshot 2025-03-14 at 00 35 13" src="https://github.com/user-attachments/assets/3f9fe94b-d51b-4fea-8468-3a5da9a8f4a8" />
+
+The ER diagram above, represents the database schema for the Real Estate Agency. This diagram shows the relationships between four different entities which are Properties, Agents, Clients, and Transactions. 
+
 The explanation of all attributes of all entities are provided below:
 
 **Agents:**
