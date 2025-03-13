@@ -4,7 +4,7 @@
 
 The explanation of all attributes of all entities are provided below:
 
-** Agents:**
+** Agents: **
 - agent_id: This is the primary key for the “Agents” table. All entries of this attribute are unique and represent each agent in the real estate agency.
 - name: This attribute stores the agent's full name.
 - phone_number: This attribute stores the agent's contact number.
@@ -27,7 +27,7 @@ so, it’s also an ENUM field.
 - agent_id: This is a foreign key that referencing the “Agents” table. This attribute shows
 which agent is responsible for the property.
 
-**Clients:**
+** Clients: **
 - client_id: This is the primary key for the “Clients” table. All entries of this attribute are unique and represent each client.
 - name: This attribute stores the client's full name.
 - phone_number: This attribute stores the client's contact number.
